@@ -17,11 +17,11 @@ pregunta 2:Para los servicios medicos que ofrece la clinica, podrias usar una li
 
 2.1:
 pregunta 1:la relacion es de uno a muchos (agregacion)
-pregunta 2: la relacion es de muchos a muchos (composicion)
+pregunta 2: la relacion es de muchos a muchos (dependencia)
 pregunta 3: la relacion es de agregacion
 
 2.2:
-pregunta 1:relacion de uno a muchos (asocioacion)
+pregunta 1:relacion de uno a muchos (asociacion)
 pregunta 2: relacion de uno a muchos (agregacion)
 pregunta 3: es unidireccional
 
