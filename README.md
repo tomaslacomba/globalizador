@@ -31,8 +31,8 @@ pregunta 2: relacion de muchos a muchos
 pregunta 3: la relacion es de agregacion
 
 2.4:
-pregunta 1: public List<Producto> : ProductosSolicitados
-pregunta 2: public List<Pedido> : Pedidos 
+pregunta 1: public List(Producto) : ProductosSolicitados
+pregunta 2: public List(Pedido) : Pedidos 
 pregunta 3: public string Tipo 
 pregunta 4: public TipoProducto Tipo 
 pregunta 5: public void GenerarReporteDiario()
@@ -40,20 +40,20 @@ pregunta 5: public void GenerarReporteDiario()
 
 2.5: 
 pregunta 1:public Propietario : Propietario 
-pregunta 2:public List<Paciente> : Mascotas 
+pregunta 2:public List(Paciente) : Mascotas 
 pregunta 3:public Paciente : Paciente 
-pregunta 4:public List<Consulta> ObtenerConsultasRealizadas()
-pregunta 5:public List<Paciente> ListarTodosLosPacientes()
-           public List<Propietario> ListarTodosLosPropietarios()
+pregunta 4:public List(Consulta) ObtenerConsultasRealizadas()
+pregunta 5:public List(Paciente) ListarTodosLosPacientes()
+           public List(Propietario) ListarTodosLosPropietarios()
 
 
 2.6:
 pregunta 1:public bool Disponibilidad 
-pregunta 2:public List<Reserva> : ReservasActivas 
+pregunta 2:public List(Reserva) : ReservasActivas 
 pregunta 3:public Libro LibroReservado 
 pregunta 4:public void DevolverLibro(Reserva reserva)
-pregunta 5: public List<Libro> ListarLibrosDisponibles()
-            public List<Miembro> ListarMiembrosRegistrados()
+pregunta 5: public List(Libro) ListarLibrosDisponibles()
+            public List(Miembro) ListarMiembrosRegistrados()
 
 3:
 pregunta 1: Encapsulacion consiste en ocultar los detalles internos de un objeto y exponer solo lo necesario a través de metodos publicos.
