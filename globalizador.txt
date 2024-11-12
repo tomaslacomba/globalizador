@@ -21,7 +21,7 @@ pregunta 2: la relacion es de muchos a muchos (dependencia)
 pregunta 3: la relacion es de agregacion
 
 2.2:
-pregunta 1:relacion de uno a muchos (asocioacion)
+pregunta 1:relacion de uno a muchos (asociacion)
 pregunta 2: relacion de uno a muchos (agregacion)
 pregunta 3: es unidireccional
 
