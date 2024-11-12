@@ -16,18 +16,18 @@ pregunta 2:Para los servicios medicos que ofrece la clinica, podrias usar una li
  Si necesitas asociar más informacion con cada servicio, como tarifas, podrias usar un diccionario.
 
 2.1:
-pregunta 1:la relacion es de uno a muchos
-pregunta 2: la relacion es de muchos a muchos
+pregunta 1:la relacion es de uno a muchos (agregacion)
+pregunta 2: la relacion es de muchos a muchos (composicion)
 pregunta 3: la relacion es de agregacion
 
 2.2:
-pregunta 1:relacion de uno a muchos
-pregunta 2: relacion de uno a muchos
+pregunta 1:relacion de uno a muchos (asocioacion)
+pregunta 2: relacion de uno a muchos (agregacion)
 pregunta 3: es unidireccional
 
 2.3:
-pregunta 1: relacion uno a muchos
-pregunta 2: relacion de muchos a muchos
+pregunta 1: relacion uno a muchos (asociacion)
+pregunta 2: relacion de muchos a muchos (agregacion)
 pregunta 3: la relacion es de agregacion
 
 2.4:
