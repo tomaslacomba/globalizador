@@ -16,18 +16,18 @@ pregunta 2:Para los servicios medicos que ofrece la clinica, podrias usar una li
  Si necesitas asociar más informacion con cada servicio, como tarifas, podrias usar un diccionario.
 
 2.1:
-pregunta 1:la relacion es de uno a muchos
-pregunta 2: la relacion es de muchos a muchos
+pregunta 1:la relacion es de uno a muchos (agregacion)
+pregunta 2: la relacion es de muchos a muchos (composicion)
 pregunta 3: la relacion es de agregacion
 
 2.2:
-pregunta 1:relacion de uno a muchos
-pregunta 2: relacion de uno a muchos
+pregunta 1:relacion de uno a muchos (asocioacion)
+pregunta 2: relacion de uno a muchos (agregacion)
 pregunta 3: es unidireccional
 
 2.3:
-pregunta 1: relacion uno a muchos
-pregunta 2: relacion de muchos a muchos
+pregunta 1: relacion uno a muchos (asociacion)
+pregunta 2: relacion de muchos a muchos (agregacion)
 pregunta 3: la relacion es de agregacion
 
 2.4:
@@ -70,6 +70,6 @@ pregunta 4: Interfaz es un contrato que define un conjunto de métodos que una c
 Clase abstracta es una clase que puede contener tanto metodos abstractos (sin implementacion) como metodos concretos (con implementacion). No se puede instanciar directamente.
 
 Diferencias:
-Implementacion: Una interfaz no puede contener implementación de metodos, mientras que una clase abstracta puede.
-Herencia multiple: Una clase puede implementar multiples interfaces, pero solo puede heredar de una clase abstracta.
-Propiedades y campos: Las interfaces no pueden tener campos o propiedades con implementacion, mientras que las clases abstractas si pueden.
+Implementación: Una interfaz no puede contener implementación de métodos, mientras que una clase abstracta puede.
+Herencia múltiple: Una clase puede implementar múltiples interfaces, pero solo puede heredar de una clase abstracta.
+Propiedades y campos: Las interfaces no pueden tener campos o propiedades con implementación, mientras que las clases abstractas sí pueden.
